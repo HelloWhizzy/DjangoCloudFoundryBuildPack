@@ -1,2 +1,3 @@
 # DjangoCloudFoundryBuildPack
-Please check the whizzy.io for the actual source.
+Please visit http://www.whizzy.io/django-buildpack-for-cloud-foundry/ for documentation
+
