@@ -1,1 +1,0 @@
-web: gunicorn whizzy.wsgi --workers 2
